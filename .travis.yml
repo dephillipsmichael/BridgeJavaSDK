@@ -4,4 +4,4 @@ jdk: openjdk7
 script: 
   - mvn clean deploy
   - cd java-sdk/
-  - mvn site site:deploy
+  - mvn -P documentation site site:deploy
