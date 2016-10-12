@@ -3,5 +3,3 @@ language: java
 jdk: openjdk7
 script: 
   - mvn clean deploy
-  - cd java-sdk/
-  - mvn -P documentation site site:deploy

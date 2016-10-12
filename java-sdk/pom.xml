@@ -143,7 +143,7 @@
 
   </profile>
 </profiles>
-    <build>
+<!--     <build>
         <extensions>
             <extension>
                 <groupId>org.kuali.maven.wagons</groupId>
@@ -151,7 +151,7 @@
                 <version>${maven-s3-wagon.version}</version>
             </extension>            
         </extensions>
-    </build>
+    </build> -->
     
 
     
